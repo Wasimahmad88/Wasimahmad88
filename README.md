@@ -28,11 +28,11 @@ Leverages 7 years of technology education experience to bring exceptional techni
 *University of Greater Manchester Bolton (UK)* | **2024 – 2025**
 *   **Final Year Project:** *Real-Time Offline Deep Learning System for Pneumonia Detection (COM7303)* — Designed and developed an edge-deployable CNN model for clinical AI diagnostics, achieving high classification accuracy without internet dependencies.
 
-### **MSc Computer Science**
+### **MS Computer Science**
 *Virtual University of Pakistan* | **2017 – 2019**
 *   Advanced modules in algorithms, distributed systems, and software engineering.
 
-### **BSc Computer Science**
+### **BCS Computer Science**
 *University of Peshawar (Pakistan)* | **2008 – 2013**
 *   Foundational coursework in programming, networking, database systems, and computer architecture.
 
@@ -58,11 +58,11 @@ Leverages 7 years of technology education experience to bring exceptional techni
 
 ## 💼 Professional Experience
 
-### **IT Teacher (Senior Secondary)** | *Govt Higher Secondary School Madyan (Swat, KP, Pakistan)*
+### **CT-IT Teacher (Certified Teacher-Information Technology)** | *Govt Higher Secondary School Madyan (Swat, KP, Pakistan)*
 **2019 – 2024**
 *   Designed and delivered computing curriculum for 200+ students annually, integrating AI and tech literacy into practical learning environments.
 
-### **IT Teacher** | *Government High School Qandil (Swat, KP, Pakistan)*
+### **CT-IT Teacher** | *Government High School Qandil (Swat, KP, Pakistan)*
 **2017 – 2019**
 *   Introduced programming fundamentals and established the school’s first computer lab learning program.
 
