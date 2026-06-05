@@ -1,4 +1,4 @@
-# Wasim Ahmad | AI & Machine Learning Engineer
+# Wasim Ahmad | Phd Scholar| AI & Machine Learning Engineer
 **MSc Artificial Intelligence (Distinction)** | 7x Peer-Reviewed Journal Author (Avg. IF: 3.9) | 7 Years Teaching Experience
 📍 Liverpool, UK | ✉️ wasimahmadits@gmail.com *(Update with your actual email)*
 
@@ -23,6 +23,9 @@ Leverages 7 years of technology education experience to bring exceptional techni
 ---
 
 ## 🎓 Education
+
+### **Phd Scholar**
+*University of Malakand (Pakistan)* | **2022 – In Progress**
 
 ### **MSc Artificial Intelligence — Distinction**
 *University of Greater Manchester Bolton (UK)* | **2024 – 2025**
