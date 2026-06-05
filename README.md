@@ -1,6 +1,6 @@
 # Wasim Ahmad | AI & Machine Learning Engineer
 **MSc Artificial Intelligence (Distinction)** | 7x Peer-Reviewed Journal Author (Avg. IF: 3.9) | 7 Years Teaching Experience
-📍 Liverpool, UK | ✉️ wasimahmad88@gmail.com *(Update with your actual email)*
+📍 Liverpool, UK | ✉️ wasimahmadits@gmail.com *(Update with your actual email)*
 
 ---
 
