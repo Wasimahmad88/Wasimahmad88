@@ -77,7 +77,24 @@ Leverages 7 years of technology education experience to bring exceptional techni
 
 ## 🏅 Certifications
 *   **Cisco Networking Academy** — Introduction to Modern AI
-*   **Deep Learning Frameworks Mastered:** PyTorch, Keras, TensorFlow *(Applied extensively in MSc research & publications)*
+*   **Deep Learning Frameworks Mastered:** PyTorch, Keras, TensorFlow *(Applied extensively in MSc research & publications)
+### Funding Hacks for Researchers — Researcher Academy
+![Funding Hacks for Researchers](funding-certificate.png)
+
+### Secure Funding: ECR Edition — Researcher Academy
+![Secure Funding ECR Edition](secure-funding-ecr-edition-certificate.png)
+
+### Successful Research Grant Applications: Getting it Right — Researcher Academy
+![Successful Research Grant Applications](successful-research-grant-applications-getting-right-certificate.png)
+
+### Tips for Writing Grant Applications: A Funder's Perspective — Researcher Academy
+![Tips for Writing Grant Applications](tips-writing-grant-applications-funder-perspective-certificate.png)
+
+### Unlocking Grant Success: Funding & Institutional Support — Researcher Academy
+![Unlocking Grant Success](unlocking-grant-success-funding-institutional-certificate.png)
+
+### Unlocking Opportunities: Crafting Award-Winning Proposals – Insights for Early Career Researchers — Researcher Academy
+![Unlocking Opportunities](unlocking-opportunities-crafting-award-winning-proposals-insights-early-career-researchers-certificate.png)
 ## 📬 Contact
 
 - 📧 wasimahmadits@gmail.com  
